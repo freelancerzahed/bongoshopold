@@ -19,5 +19,5 @@ yarn-error.log
 updates/
 /public/uploads/
 
-*.lock
+
 resources/lang/en.json
