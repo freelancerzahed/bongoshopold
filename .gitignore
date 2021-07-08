@@ -18,6 +18,6 @@ yarn-error.log
 
 updates/
 /public/uploads/
-composer.lock
+
 *.lock
 resources/lang/en.json
